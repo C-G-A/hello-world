@@ -1,2 +1,2 @@
 # hello-world
-Triall repository
+Trial repository
